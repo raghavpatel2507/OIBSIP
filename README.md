@@ -1,3 +1,3 @@
 # OIBSIP
 
-## THREE TASK FOR INTERNSHIP TASK..
+## This is Data Science internship with Oasis infobyte
